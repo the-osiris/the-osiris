@@ -5,7 +5,7 @@
 <h5 align="center">
 I’m a 2nd-year student pursuing a Bachelors’s in Computer science, from IIIT Guwahati. I am a Animator, web developer, and Designer. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-osiris&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-osiris&label=Profile%20views&color=0e75b6&style=flat" alt="the-osiris" /> </p>
 <p>
 <a align= "center" href="https://github.com/KunalSingh14">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=the-osiris&theme=radical">
