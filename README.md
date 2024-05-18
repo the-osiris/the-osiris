@@ -3,7 +3,7 @@
          height="45"
          width="45"/>, I'm Kunal Singh</h1>
 <h5 align="center">
-I’m a 2nd-year student pursuing a Bachelors’s in Computer science, from IIIT Guwahati. I am a Animator, web developer, and Designer. 
+I’m a final-year student pursuing a Bachelors’s in Computer science, from IIIT Guwahati. I am a Animator, web developer, and Designer. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-osiris&label=Profile%20views&color=0e75b6&style=flat" alt="the-osiris" /> </p>
 <p>
