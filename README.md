@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [www.kunalsingh.in](www.kunalsingh.in)
+- 👨‍💻 All of my projects are available at [www.kunalsingh.in](https://www.kunalsingh.in)
 
 - 💬 Ask me about **React.js, Node.js and Redux**
 
