@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [www.kunalsingh.in](https://www.kunalsingh.in)
-
 - 💬 Ask me about **React.js, Node.js and Redux**
 
 - 📫 How to reach me **dev.kunal.singh@gmail.com**
