@@ -66,7 +66,7 @@ const kunal = {
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=the-osiris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
   </a>
   <a href="https://github.com/the-osiris">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=the-osiris&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://streak-stats.demolab.com?user=the-osiris&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -77,9 +77,7 @@ const kunal = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=the-osiris&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-osiris&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 </p>
 
 ---
