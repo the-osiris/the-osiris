@@ -66,7 +66,7 @@ const kunal = {
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=the-osiris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
   </a>
   <a href="https://github.com/the-osiris">
-    <img height="180" src="https://streak-stats.demolab.com?user=the-osiris&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://streak-stats.demolab.com?user=the-osiris&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 
